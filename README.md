@@ -1,4 +1,4 @@
-# 🌞 Deep Learning-Based Detection and Instance Segmentation of Solar Filaments in H-Alpha Images
+# Deep Learning-Based Detection and Instance Segmentation of Solar Filaments in H-Alpha Images
 
 ## 🎯 Problem Statement
 
