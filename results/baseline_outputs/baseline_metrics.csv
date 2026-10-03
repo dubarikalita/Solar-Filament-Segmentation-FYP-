@@ -1,0 +1,2 @@
+Method,Dice Score,IoU Score,Ground Truth Pixels,Predicted Pixels,Overlapping Pixels
+Thresholding + Solar Disk Mask,0.0,0.0,9165,578,0
